@@ -1,4 +1,4 @@
-# C2C Elite 101 Python Environment
+# C2C SDE Python Environment
 
 This project provides a Python development environment pre-configured for use with [GitHub Codespaces](https://docs.github.com/en/codespaces). Students can create Codespaces from this repository whenever they need to code in Python for this course
 
@@ -15,7 +15,6 @@ To use this project, follow these steps:
    - Select the "Codespaces" tab in the popup.
    - Click the `+` button to create a new Codespace.
    - For more information, see [Opening a Codespace](https://docs.github.com/en/codespaces/developing-in-a-codespace/opening-an-existing-codespace).
-   ![Screenshot](codespace_usage.png)
 
 3. **Run the Starter Program**
    - Open a terminal in the Codespace and run the following command:
@@ -25,7 +24,6 @@ To use this project, follow these steps:
      ```
 
    - Alternatively, open the `main.py` file in the editor and click the play button at the top-right corner.
-   ![Screenshot](codespace_run_file.png)
 
 ## Key Features
 
